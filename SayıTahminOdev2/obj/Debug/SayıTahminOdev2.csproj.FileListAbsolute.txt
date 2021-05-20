@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\bin\Debug\SayıTahminOdev2.exe.config
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\bin\Debug\SayıTahminOdev2.exe
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\bin\Debug\SayıTahminOdev2.pdb
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\obj\Debug\SayıTahminOdev2.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\obj\Debug\SayıTahminOdev2.Form1.resources
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\obj\Debug\SayıTahminOdev2.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\obj\Debug\SayıTahminOdev2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\obj\Debug\SayıTahminOdev2.exe
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\obj\Debug\SayıTahminOdev2.pdb
+C:\Users\LENOVO\source\repos\SayıTahminOdev2\SayıTahminOdev2\obj\Debug\SayıTahminOdev2.Form2.resources
